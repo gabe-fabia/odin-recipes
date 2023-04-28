@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+ul li {
+    background-color: pink;
+}
+
+ol {
+    background-color: greenyellow;
+}
